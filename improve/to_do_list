@@ -1,0 +1,18 @@
+caracteristicas
+	data mining//web scraping
+	webs list
+	most 20% key used
+	most 20% substrings used
+	most 20% words used
+	most 20% sentences used
+	most 20% variants can be used
+	perfil de progreso
+	error halding
+		detectar fallos
+		detectar con que letras se falla
+		detectar que letras se usan mas comunmente en lugar de las correctas
+	tiempo
+		top speed
+		min speed
+		average speed
+		potential speed = kpm / duracionDelEjercicio
